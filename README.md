@@ -11,7 +11,7 @@
 
 ## Volunteering
 
-You don't have to be a programmer to participate! You can also do something else. Like make coffee, or tea.
+You don't have to be a programmer to participate! You can also do something else. Like make coffee, or tea. Lemonade is fine too.
 
 Check [Team Guide](https://team.trustroots.org/Volunteering.html) for more info on how to get started.
 
